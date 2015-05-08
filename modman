@@ -1,0 +1,7 @@
+app/code/community/MagentoGarden/* app/code/community/MagentoGarden/
+app/design/adminhtml/default/default/layout/* app/design/adminhtml/default/default/layout/
+app/design/frontend/base/default/layout/* app/design/frontend/base/default/layout/
+app/design/frontend/base/default/template/* app/design/frontend/base/default/template/
+app/etc/modules/* app/etc/modules/
+js/magentogarden/* js/magentogarden/
+skin/frontend/base/default/magentogarden/* skin/frontend/base/default/magentogarden/
